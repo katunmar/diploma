@@ -19,6 +19,7 @@ do i=1,n
 	!print *, i
 end do 
 
+print *, "hello world!"
 
 call PBLDAT
 
